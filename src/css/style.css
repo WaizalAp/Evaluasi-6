@@ -1,0 +1,15 @@
+.Home-Style
+{
+    padding: 5px 5px;
+    max-width: 1000px;
+    margin: auto;
+}
+.ga
+{
+    height: 130px;
+    width: 230px;
+    float: left;
+    border-radius: 5px;
+    margin-right: 10px;
+    border: 2px solid #111;
+}
